@@ -1,13 +1,4 @@
-# Todo
-
-This is a simple RESTful API built with Go for user authentication and todo management. It features JWT-based authentication, user registration/login, and CRUD operations for todos, all backed by a PostgreSQL database.
-
-## Features
-
-- User registration and login with JWT authentication
-- CRUD operations for todos (create, read, update, delete)
-- Per-user todo isolation
-- Built with Go, GORM, and PostgreSQL
+# UMKM Assistant
 
 ## Requirements
 
